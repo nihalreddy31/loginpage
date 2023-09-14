@@ -16,7 +16,7 @@ function App() {
 
         </div>
            <div>
-             <h1> LOGIN PAGE</h1>
+             <h1> LOGIN PAGE Demo</h1>
            <div>
             <img src={emaillogo} alt="email" className="email"/>
              <input type="text" placeholder="username" className="name"/>
