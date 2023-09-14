@@ -1,0 +1,98 @@
+.main{
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(114, 204, 174);
+  padding: 90px 0 90px 0;
+  display: flex;
+
+
+}
+.sub-main{
+  display: flex;
+  justify-content: center;
+  height: 550px;
+  width: 35%;
+  box-shadow: 11px 12px 13px 11px rgb(63, 56, 56);
+  border-radius: 60px;
+  background-color: white;
+  padding-top: 30px;
+
+}
+.images{
+  justify-content: center;
+  display: flex;
+  padding-top: 20px;
+
+}
+.container-image{
+  background-color: rgb(231, 223, 223);
+  align-items: center;
+  display: flex;
+  border-radius: 150px;
+  height: 115px;
+  width: 115px;
+}
+.profile{
+  height: 120px;
+  width: 120px;
+  border-radius: 200px;
+}
+.email{
+  height: 40px;
+  width: 40px;
+  border-radius: 60px;
+  padding: 5px;
+  position: absolute;
+}
+.password{
+  height: 50px;
+  width: 400px;
+  border-radius: 60px;
+  font-size: 20px;
+  padding-left: 70px;
+}
+.pass{
+  height: 40px;
+  width: 40px;
+  border-radius: 60px;
+  padding: 5px;
+  position: absolute;
+}
+.name{
+  height: 50px;
+  width: 400px;
+  border-radius: 60px;
+  font-size: 20px;
+  padding-left: 70px;
+}
+input{
+  height: 50;
+  width: 300px;
+  border-radius:60px;
+  box-shadow: inset 0px 0px 12px 0px;
+  background-color: white;
+  
+}
+.second-input{
+  padding-top: 20px;
+}
+.login-button{
+  height: 50px;
+  width: 400px;
+  padding-top: 20px; 
+}
+.button{
+  background-color: rgb(128, 43, 226);
+  font-size: 20px;
+  color: white;
+  height: 50px;
+  width: 470px;
+  border-radius: 60px;
+}
+.link{
+  font-size: 25px;
+  font-weight: 400px;
+}
+a{
+  color: blue;
+}
